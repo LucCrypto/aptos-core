@@ -10711,6 +10711,7 @@ checksum = "85e60b0d1b5f99db2556934e21937020776a5d31520bf169e851ac44e6420214"
 [[package]]
 name = "x25519-dalek"
 version = "1.2.0"
+source = "git+https://github.com/LucCrypto/x25519-dalek#6ac66a85c5975a03799afc622965e7dc7e13c843"
 dependencies = [
  "curve25519-dalek",
  "rand_core 0.5.1",
